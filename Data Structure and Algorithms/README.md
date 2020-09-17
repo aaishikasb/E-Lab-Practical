@@ -14,9 +14,14 @@
 ## Questions
 ### Problem Statement 1
 Find the average of N numbers using arrays. First line of the input is the number of inputs.
-```Test Cases:
-Input
-6
-10 3 28 14 12 5
-Output
-12```
+```
+   Test Cases:
+   Input
+   6
+   10 3 28 14 12 5
+   Output
+   12
+```
+[Solution](Q1.cpp)
+
+### Problem Statement 2
